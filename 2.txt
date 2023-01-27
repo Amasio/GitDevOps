@@ -1,3 +1,4 @@
 seconda prova pdf per GIT
-
-Creazione su other branch distaccatosi dal master branch
+----------------------------
+Totalmente distaccato dalla formazione
+Distaccato<- master ->Bugfix->
