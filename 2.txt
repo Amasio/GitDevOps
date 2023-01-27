@@ -1,4 +1,4 @@
 seconda prova pdf per GIT
-----------------------------
 Totalmente distaccato dalla formazione
-Distaccato<- master ->Bugfix->
+why not working marge:
+Creazione su other branch distaccatosi dal master branch
