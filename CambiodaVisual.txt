@@ -1,2 +1,2 @@
 Immeto nuovo codice eseguito da ssh di vissual studio
-sembra nona andare
+invece ha funzionato correttamente
